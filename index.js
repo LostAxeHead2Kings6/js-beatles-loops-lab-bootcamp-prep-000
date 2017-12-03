@@ -3,3 +3,4 @@ function theBeatlesPlay(arr1, arr2) {
     console.log("${arr1[i]} plays ${arr2[i]}")
   }
 }
+

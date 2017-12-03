@@ -14,5 +14,6 @@ function johnLennonFacts(arr) {
 }
  function iLoveTheBeatles(num) {
    arr = [];
-   do {arr.push("I love the Beatles!")}
+   do {arr.push("I love the Beatles!");
+        num = num - 1}
  }

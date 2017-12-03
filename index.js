@@ -1,9 +1,9 @@
 function theBeatlesPlay(arr1, arr2) {
-  arr = [];
+  arr3 = [];
   for (var i = 0; i < arr1.length; i++) {
-    arr.push("${arr1[i]} plays ${arr2[i]}");
+    arr3.push("${arr1[i]} plays ${arr2[i]}");
   }
-  return arr;
+  return arr3;
 }
 
 function johnLennonFacts(arr) {

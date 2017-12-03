@@ -10,4 +10,5 @@ function johnLennonFacts(arr) {
     arr[i] = arr[i] + "!!!";
     i = i + 1;
   }
+  return arr
 }

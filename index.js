@@ -19,4 +19,5 @@ function johnLennonFacts(arr) {
    do {arr.push("I love the Beatles!");
         num = num + 1}
   while(num < 15)
+  return arr;
  }
